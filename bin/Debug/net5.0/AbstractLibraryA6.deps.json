@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbstractLibraryA6/1.0.0": {
+        "runtime": {
+          "AbstractLibraryA6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractLibraryA6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
